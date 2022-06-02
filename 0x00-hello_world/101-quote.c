@@ -2,9 +2,8 @@
 #include <unistd.h>
 
 /**
- * main - Entry point of the program 
- * Description: This is a main function
- * Return: Always returns (0)
+ * main - Entry point for all program
+ * Return:1
  */
 
 int main(void)
